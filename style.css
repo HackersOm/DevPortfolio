@@ -35,6 +35,7 @@
 
         .btn {
             display: inline-block;
+            margin:20px;
             padding: 12px 24px;
             background-color: var(--primary-color);
             color: var(--text-light);
